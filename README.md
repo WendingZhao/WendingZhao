@@ -4,6 +4,7 @@
 - 🌱 Major in information Engineering.
 - 💬 My reasearch interst: computer vision, especially light-field super-resolution
 - 📫 How to reach me: 2715511439@qq.com or zwd21@nudt.edu.cn
+- 👯 恩师 [snape-max](https://github.com/Snape-max)
 
 ![](https://github-readme-stats.vercel.app/api?username=WendingZhao&show_icons=true&theme=transparent)
 
