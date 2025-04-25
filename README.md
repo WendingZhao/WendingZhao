@@ -3,7 +3,7 @@
 - 🔭 I study in National University of Defense Technology.
 - 🌱 Major in information Engineering.
 - 💬 My reasearch interst: computer vision, especially light-field super-resolution
-- 📫 How to reach me: echo MjcxNTUxMTQzOUBxcS5jb20K | base64 -d or echo endkMjFAbnVkdC5lZHUuY24K | base64 -d
+- 📫 How to reach me: `echo MjcxNTUxMTQzOUBxcS5jb20K | base64 -d` or `echo endkMjFAbnVkdC5lZHUuY24K | base64 -d`
 - 👯 恩师 [snape-max](https://github.com/Snape-max)
 
 ![](https://github-readme-stats.vercel.app/api?username=WendingZhao&show_icons=true&theme=transparent)
