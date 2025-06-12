@@ -4,11 +4,11 @@
 - 🌱 Major in information Engineering.
 - 💬 My reasearch interst: computer vision, especially light-field super-resolution
 - 📫 How to reach me: `echo MjcxNTUxMTQzOUBxcS5jb20K | base64 -d` or `echo endkMjFAbnVkdC5lZHUuY24K | base64 -d`
-- 👯 恩师 [snape-max](https://github.com/Snape-max)
+- 👯 Partner [snape-max](https://github.com/PengweeWang)
 
 ![](https://github-readme-stats.vercel.app/api?username=WendingZhao&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/WendingZhao/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/WendingZhao/count.svg) visitor,Thank You!😘😘
 
 
 
