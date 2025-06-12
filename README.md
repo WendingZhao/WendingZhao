@@ -4,7 +4,7 @@
 - 🌱 Major in information Engineering.
 - 💬 My reasearch interst: computer vision, especially light-field super-resolution
 - 📫 How to reach me: `echo MjcxNTUxMTQzOUBxcS5jb20K | base64 -d` or `echo endkMjFAbnVkdC5lZHUuY24K | base64 -d`
-- 👯 Partner [snape-max](https://github.com/PengweeWang)
+- 👯 Partner [Pony Wee](https://github.com/PengweeWang)
 
 ![](https://github-readme-stats.vercel.app/api?username=WendingZhao&show_icons=true&theme=transparent)
 
